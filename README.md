@@ -1,4 +1,4 @@
-# BMI Calculator 💪
+# BMI Calculator 
 
 - Flutter app to calculate BMI.
 - Based on Anglea Yu's Complete Flutter Development Bootcamp course in Udemy.
